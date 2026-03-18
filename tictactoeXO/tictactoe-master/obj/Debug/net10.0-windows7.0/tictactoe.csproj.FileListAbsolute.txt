@@ -1,0 +1,16 @@
+c:\Users\victor.machado\Downloads\tictactoe-master\tictactoe-master\bin\Debug\net10.0-windows7.0\tictactoe.exe
+c:\Users\victor.machado\Downloads\tictactoe-master\tictactoe-master\bin\Debug\net10.0-windows7.0\tictactoe.deps.json
+c:\Users\victor.machado\Downloads\tictactoe-master\tictactoe-master\bin\Debug\net10.0-windows7.0\tictactoe.runtimeconfig.json
+c:\Users\victor.machado\Downloads\tictactoe-master\tictactoe-master\bin\Debug\net10.0-windows7.0\tictactoe.dll
+c:\Users\victor.machado\Downloads\tictactoe-master\tictactoe-master\bin\Debug\net10.0-windows7.0\tictactoe.pdb
+c:\Users\victor.machado\Downloads\tictactoe-master\tictactoe-master\obj\Debug\net10.0-windows7.0\tictactoe.Form1.resources
+c:\Users\victor.machado\Downloads\tictactoe-master\tictactoe-master\obj\Debug\net10.0-windows7.0\tictactoe.csproj.GenerateResource.cache
+c:\Users\victor.machado\Downloads\tictactoe-master\tictactoe-master\obj\Debug\net10.0-windows7.0\tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\victor.machado\Downloads\tictactoe-master\tictactoe-master\obj\Debug\net10.0-windows7.0\tictactoe.AssemblyInfoInputs.cache
+c:\Users\victor.machado\Downloads\tictactoe-master\tictactoe-master\obj\Debug\net10.0-windows7.0\tictactoe.AssemblyInfo.cs
+c:\Users\victor.machado\Downloads\tictactoe-master\tictactoe-master\obj\Debug\net10.0-windows7.0\tictactoe.csproj.CoreCompileInputs.cache
+c:\Users\victor.machado\Downloads\tictactoe-master\tictactoe-master\obj\Debug\net10.0-windows7.0\tictactoe.dll
+c:\Users\victor.machado\Downloads\tictactoe-master\tictactoe-master\obj\Debug\net10.0-windows7.0\refint\tictactoe.dll
+c:\Users\victor.machado\Downloads\tictactoe-master\tictactoe-master\obj\Debug\net10.0-windows7.0\tictactoe.pdb
+c:\Users\victor.machado\Downloads\tictactoe-master\tictactoe-master\obj\Debug\net10.0-windows7.0\tictactoe.genruntimeconfig.cache
+c:\Users\victor.machado\Downloads\tictactoe-master\tictactoe-master\obj\Debug\net10.0-windows7.0\ref\tictactoe.dll
