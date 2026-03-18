@@ -13,4 +13,7 @@ Diagrama de Classe
 
 <img width="1004" height="692" alt="image" src="https://github.com/user-attachments/assets/da2a464c-4b18-4757-808c-d1e8048525da" />
 
+Gestão de Projeto feito no Trello
+
+<img width="1431" height="792" alt="image" src="https://github.com/user-attachments/assets/a408585a-e98b-41fe-b689-a5d259cba4e7" />
 
